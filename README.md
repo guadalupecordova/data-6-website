@@ -14,4 +14,9 @@ An old song I have enjoyed listening to:
 https://embed.music.apple.com/us/album/tell-me-something-i-dont-know/1440637985?i=1440638912
 
 
+These are my four dogs
 
+<img src="IMG_1564.HEIC" style="width:50%; margin:auto; display:block">
+<img src="IMG_1568.HEIC" style="width:50%; margin:auto; display:block">
+<img src="IMG_4476.HEIC" style="width:50%; margin:auto; display:block">
+<img src="IMG_6455.JPG" style="width:50%; margin:auto; display:block">
